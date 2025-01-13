@@ -3,3 +3,5 @@
 - Bacon
 - Bread
 - Oreos
+- Popcorn
+- Ice cream
